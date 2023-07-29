@@ -29,6 +29,14 @@ body {
   justify-content: space-between;
   overflow: scroll;
 }
+.footer {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  color: #9c9c9c;
+  position: fixed;
+  bottom: 10px;
+}
 .header,
 .search,
 .links,
